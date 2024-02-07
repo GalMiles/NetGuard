@@ -10,7 +10,7 @@ Web Application that checks URL address and provides analysis of security and of
 * React + React Hooks
 * CSS
 
-<img width="944" alt="netGuard" src="https://github.com/GalMiles/NetGuard/tree/main/public/">
+<img width="944" alt="netGuard" src="https://github.com/GalMiles/NetGuard/blob/main/public/screen2.png">
 
 
 
