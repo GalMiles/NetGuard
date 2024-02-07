@@ -11,7 +11,12 @@
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.1.0"
+    "next": "14.1.0",
+    "chart.js": "^2.9.4",
+    "cheerio": "^1.0.0-rc.12",
+    "clarifai": "^2.9.1",
+    "dotenv": "^16.4.1",
+    "node-fetch": "^3.3.2"
   },
   "devDependencies": {
     "typescript": "^5",

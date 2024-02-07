@@ -1,0 +1,113 @@
+
+.title {
+    color: #bb1111;
+    padding-bottom: 20px;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+  }
+  .text {
+    color: #f2eee9;
+    align-content: center;
+  }
+  .div{
+    width: 100;
+    align-content: center;
+    justify-content: center;
+  }
+  
+  .button {
+    background-color: #fff;
+    border: 1px solid #d5d9d9;
+    border-radius: 15px;
+    box-shadow: rgba(213, 217, 217, .5) 0 2px 5px 0;
+    box-sizing: border-box;
+    color: #0f1111;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Amazon Ember",sans-serif;
+    font-size: 13px;
+    line-height: 29px;
+    padding: 0 10px 0 11px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+    width: 100px;
+    margin: 10px;
+    align-items: center;
+  }
+  
+  .button:hover {
+    background-color: #f7fafa;
+  }
+  
+  .button:focus {
+    border-color: #3479e5;
+    box-shadow: rgba(213, 217, 217, .5) 0 2px 5px 0;
+    outline: 0;
+  }
+  
+  .searchContainer {
+    width: 30vw;
+    justify-content: center;
+  
+  }
+  
+  .searchInput {
+    padding: 10px;
+    font-size: 16px;
+    border: 3px solid #9fd8f4;
+    border-radius: 10px;
+    width: 100%;
+    margin-bottom: 6px;
+    box-sizing: border-box;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .container {
+    margin-top:30px;
+    display: flex;
+    /* background-color: #e3e0d6; */
+    /* padding: 20px; */
+    color: #303030;
+    justify-content: center;
+  }
+  
+  .container_small {
+    flex: 1;
+    padding: 10px 20px;
+    margin: 30px;
+    opacity: 0.9;
+    background-color: #e5e4e0;
+    box-shadow: 5px 5px 4px 0px #a3a3a3;
+    border-radius: 0 25px;
+    border: 2px solid #6e7f88;
+    color: #303030;
+  }
+  
+  .checkboxLabel {
+    padding: 5px;
+  }
+  
+  .titleComp{
+    color: black;
+    margin: 2px;
+    font-family: "Trebuchet MS", Verdana, sans-serif;
+    text-shadow: 5px 5px 4px 3px #1c1c1c;
+  }
+  
+  .argumentComp{
+    color: #48444b;
+    font-size: 14px;
+    font-display: bold;
+  }
+  
+  .resultComp{
+    color: #000000;
+    font-size: 18px;
+  }
