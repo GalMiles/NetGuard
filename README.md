@@ -22,18 +22,3 @@ To get a local copy up and running, follow these simple steps.
 - npm
 ```bash
 npm install npm@latest -g
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
