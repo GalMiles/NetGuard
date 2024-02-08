@@ -6,18 +6,9 @@ Welcome to NetGuard, a robust web application developed as a collaborative effor
 ## Features
 
 - **URL Analysis**: Submit any URL to evaluate its safety in terms of security threats such as phishing, malware, and potentially harmful content.
-- **Real-Time Data Visualization**: Interactive charts and graphs powered by Chart.js[https://www.chartjs.org] offer a visual representation of the analysis, making it easy to understand.
+- **Real-Time Data Visualization**: Interactive charts and graphs powered by [Chart.js](https://www.chartjs.org) offer a visual representation of the analysis, making it easy to understand.
 - **API Integration**: Utilizes external APIs to fetch the latest data on URL safety and content categorization.
-- **Responsive Design**: Built using Next.js[https://nextjs.org/] and React[https://react.dev/], NetGuard offers a seamless experience across all devices.
-
-## Backend
-* 
-
-## Frontend
-* Next.js
-* React + React Hooks
-* CSS
-
+- **Responsive Design**: Built using [Next.js](https://nextjs.org/) and [React](https://react.dev/), NetGuard offers a seamless experience across all devices.
 
 <img width="944" alt="netGuard" src="https://github.com/GalMiles/NetGuard/blob/main/public/screen2.png">
 
