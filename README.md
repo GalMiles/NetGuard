@@ -1,5 +1,5 @@
 
-# NetGuard
+# NetGuard 🛡️
 
 Welcome to NetGuard, a robust web application developed as a collaborative effort during the Web Safe Hackathon. Our application is designed to enhance online safety by analyzing URLs for security threats and offensive content. By leveraging the power of Next.js, React, various external APIs, and Charts.js, we provide users with insightful, real-time analysis of the websites they visit.
 
